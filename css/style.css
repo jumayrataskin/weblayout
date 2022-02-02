@@ -1,0 +1,57 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+	background-color: blueviolet;
+}
+
+header{
+	width: 100%;
+	float: left;
+	padding: 20px 0;
+	
+}
+
+.logo{
+	width: 30%;
+	float: left;
+
+}
+
+.menu{
+	width: 70%;
+	float: left;
+}
+
+nav{
+
+}
+
+nav ul{
+	list-style: none
+
+}
+
+nav ul li{
+	display: inline-block;
+    margin: 5px 10px;
+
+}
+
+nav ul li a{
+	text-decoration: auto;
+    font-size: 20px;
+    color: black;
+
+}
+.banner{
+	width: 100%;
+	float: left;
+}
+
+
+
